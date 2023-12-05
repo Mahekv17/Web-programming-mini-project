@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["2ve3zv",(e,t)=>{var a,i=(e,t)=>{if(e){var i=new Date(new Date().getTime()+5e3);a.set("NPID",e,{expires:i,path:"/",...t?{domain:t}:null})}};return[()=>{e("setPIDCookie",i)},[e=>a=e.default]]},["5gpqhx"]]);

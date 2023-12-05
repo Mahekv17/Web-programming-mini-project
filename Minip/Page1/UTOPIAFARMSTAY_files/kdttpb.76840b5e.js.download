@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["kdttpb",(e,a)=>{var r,t,u=()=>l(r()),l=e=>!t.has(e);return[()=>{t=new Set(["el-GR","he-IL","id-ID","ko-KR","ru-RU","th-u-ca-gregory","tr-TR","vi-VN","ar-US-u-nu-latn","ar-EG-u-nu-latn"]),e({isCommerceEnabledLocale:l,useIsCommerceEnabledLocale:u})},[e=>r=e.useLocale]]},["7thqz4"]]);

@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["9i2wyn",(n,o)=>{var t,e,s,i="ADDITIONAL",r=({onBannerNotFound:n,placement:o})=>t(s,{placement:o,promoPosition:i,onBannerNotFound:n});return[()=>{n("default",e((n,o,t)=>(s.stage(n,o,{promoPosition:i,placement:t}),()=>({})))(r))},[n=>t=n.jsx,n=>e=n.bind,n=>s=n.CMSPromo]]},["21h32l","6z5q2p","sevubl"]]);

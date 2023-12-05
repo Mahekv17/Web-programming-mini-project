@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["k64pus",(t,i)=>{function e(t,i){return null==i||0===i?6*Math.max(...t.toLowerCase().split("|").map(t=>parseInt(t.split("x")[1],10))):"string"==typeof i?parseInt(i,10):i}return t("getMinRailHeight",e),[()=>{t("getMinRailHeight",e)},[]]},[]]);

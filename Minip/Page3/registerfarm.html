@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="registerfarm.css">
+    <title>Farm Registration Form</title>
+</head>
+<body>
+    <div class="container">
+        <h2>Register Your Farm</h2>
+        <form id="registration-form">
+            <div class="form-group">
+                <label for="farmerName">Farmer Name:</label>
+                <input type="text" id="farmerName" name="farmerName" required>
+            </div>
+            <div class="form-group">
+                <label for="taluka">Taluka Name:</label>
+                <input type="text" id="taluka" name="taluka" required>
+            </div>
+            <div class="form-group">
+                <label for="address">Address:</label>
+                <input type="text" id="address" name="address" required>
+            </div>
+            <div class="form-group">
+                <label for="district">District:</label>
+                <input type="text" id="district" name="district" required>
+            </div>
+            <div class="form-group">
+                <label for="mobile">Mobile Number:</label>
+                <input type="tel" id="mobile" name="mobile" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <!-- <div class="form-group">
+                <label for="website">Website:</label>
+                <input type="url" id="website" name="website">
+            </div> -->
+            <div class="form-group">
+                <label for="accommodation">Accommodation:</label>
+                <select id="accommodation" name="accommodation">
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="agricultureLand">Agriculture Land (acres):</label>
+                <input type="number" id="agricultureLand" name="agricultureLand" required>
+            </div>
+            <div class="form-group">
+                <label for="nearCity">Nearby City:</label>
+                <input type="text" id="nearCity" name="nearCity" required>
+            </div>
+            <div class="form-group">
+                <label for="sightseeing">Sightseeing:</label>
+                <textarea id="sightseeing" name="sightseeing"></textarea>
+            </div>
+            <div class="form-group">
+                <label for="activitiesFacilities">Activities & Facilities:</label>
+                <textarea id="activitiesFacilities" name="activitiesFacilities"></textarea>
+            </div>
+            <div class="form-group">
+                <label for="eventFestivals">Event & Festivals:</label>
+                <textarea id="eventFestivals" name="eventFestivals"></textarea>
+            </div>
+            <div class="form-group">
+                <label for="Password">PASSWORD:</label>
+                <input type="password" id="password">
+            </div>
+            <div class="form-group">
+                <label for="confirm Password">CONFIRM PASSWORD:</label>
+                <input type="password" id="confirm_password">
+            </div>
+            
+            <div class="form-group">
+                <button type="submit">Submit</button>
+            </div>
+        </form>
+    </div>
+
+    <script src="registerfarm.js"></script>
+</body>
+</html>

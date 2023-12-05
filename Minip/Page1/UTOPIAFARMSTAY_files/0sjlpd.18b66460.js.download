@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["0sjlpd",(e,s)=>{var i,l=({children:e})=>i("span",{className:"sAlVR",children:e}),r=({children:e})=>i("div",{"data-fs-block":"true",children:e});return[()=>{e({RequiredLabel:l,SensitiveInformationBlocker:r})},[e=>i=e.jsx]]},["21h32l"]]);

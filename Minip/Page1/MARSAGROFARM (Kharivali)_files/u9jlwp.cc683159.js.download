@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["u9jlwp",(e,t)=>{var h,r,T,m,o=()=>r(T);return[()=>{m=(T=h({theme:"LIGHT",themePreferenceOrAuto:"LIGHT",canChangeThemes:!1,setTheme:()=>{},setThemeLocal:()=>{}})).Provider,e({ThemeContext:T,ThemeProvider:m,defaultTheme:"LIGHT",defaultThemePreferenceOrAuto:"LIGHT",useTheme:o})},[e=>(h=e.createContext,r=e.useContext)]]},["o4yt4q"]]);

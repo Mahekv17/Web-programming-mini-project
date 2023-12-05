@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["kkqcv8",(e,n)=>{var r,u,t,i,a,l=()=>`DFLT_${i()}`,v=({funnelKey:e,children:n})=>{var[u]=t({funnelKey:e||l()});return r(a.Provider,{value:u,children:n})};return[()=>{e({FunnelTracking:a=u({funnelKey:l()}),FunnelTrackingProvider:v})},[e=>r=e.jsx,e=>(u=e.createContext,t=e.useState),e=>i=e.uuid]]},["21h32l","o4yt4q","eww825"]]);

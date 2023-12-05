@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["87it5b",(e,r)=>{var t,u,s=()=>{var{page:e}=t(),r=u();return["Hotels","HotelsFusion"].includes(e)&&"en-US"===r},n=()=>{var{params:e}=t();return!("filters"in e)},i=()=>{var e=s(),r=n();return e||r};return[()=>{e("default",i)},[e=>t=e.useRoute,e=>u=e.useLocale]]},["fgwvq1","7thqz4"]]);

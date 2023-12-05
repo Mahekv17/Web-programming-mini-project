@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["slhjrk",(i,t)=>{var e,l,a,n,s=()=>{var{params:i}=a();return e(n,{section:"claimListing",theme:"box",children:e(l,{locationId:"detailId"in i&&i.detailId||-1})})};return[()=>{i("default",s)},[i=>e=i.jsx,i=>l=i.ClaimListing,i=>a=i.useRoute,i=>n=i.Section]]},["21h32l","54yoaq","fgwvq1","mjqgle"]]);

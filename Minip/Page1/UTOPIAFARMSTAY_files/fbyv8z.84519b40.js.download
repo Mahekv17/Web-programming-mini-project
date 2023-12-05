@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["fbyv8z",(r,e)=>{var t,u=(...r)=>{for(var e=t.useRef(r),u=t.useRef(r[0]),n=!1,f=0;f<r.length;f++)e.current[f]!==r[f]&&(n||(u.current=r[f],n=!0),e.current[f]=r[f]);return u.current};return[()=>{r("default",u)},[r=>t=r]]},["o4yt4q"]]);

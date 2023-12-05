@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["9irlvm",(e,i)=>{var r,a={__key:0x9a0160c61a94,id:"9a0160c61a94a951",loc:{},definitions:[]},n=(e,i)=>{var[{data:n}]=r({query:a,variables:{params:{entryId:e,...i?{preview:"true"}:{}}}});return n?.canonicalize?.[0]?.webLinkUrl||void 0};return[()=>{e("useCollectionsUrl",n)},[e=>r=e.useQuery]]},["mqwhqn"]]);

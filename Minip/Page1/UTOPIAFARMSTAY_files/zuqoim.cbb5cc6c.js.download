@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["zuqoim",(i,l)=>{var r,a,e=({Icon:i,largerOnMobile:l=!1,autoMargin:e=!1,backgroundColor:h="lightPurple"})=>r("div",{className:a(["seoaI Rb f j u",{SUpSp:l,WDzNa:e,OziLS:"lightPurple"===h,lWhUM:"primary"===h}]),children:r(i,{size:32})});return[()=>{i("CircularIcon",e)},[i=>r=i.jsx,i=>a=i.default]]},["21h32l","fkji80"]]);

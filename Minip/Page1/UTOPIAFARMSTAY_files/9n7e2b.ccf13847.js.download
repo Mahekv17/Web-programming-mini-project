@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["9n7e2b",(u,e)=>{var n,s,r,t,i=(u,e,i,c)=>{var{funnelKey:a}=r(t);return n(u,e,i,s(),a,c)};return[()=>{u("useOptimusBounceTracking",i)},[u=>n=u.useBounceTracking,u=>s=u.useOptimusImpression,u=>r=u.useContext,u=>t=u.FunnelTracking]]},["yau6qy","yc73mo","o4yt4q","kkqcv8"]]);

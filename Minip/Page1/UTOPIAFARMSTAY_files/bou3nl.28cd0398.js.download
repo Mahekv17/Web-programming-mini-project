@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["bou3nl",(e,t)=>{var s,r="write_a_review_post_photos_on_web_1666008885",o=()=>{var e=s({experimentKeys:[r]});return e?.[r]==="test"};return[()=>{e("useIsPostPhotosNewUploaderEnabled",o)},[e=>s=e.default]]},["gugp1d"]]);

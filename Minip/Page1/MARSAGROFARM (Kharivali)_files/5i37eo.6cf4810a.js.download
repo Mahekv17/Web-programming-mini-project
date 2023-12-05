@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["5i37eo",(e,t)=>{var i,a;return[()=>{e("default",i(e=>({url:e.meta.initialAbsoluteUrl??"",itemType:e.meta.initialServletName??"",itemId:String(e.page.detailId||"0")}))(a))},[e=>i=e.connect,e=>a=e.ShareCta]]},["2mj4nv","7j6z14"]]);

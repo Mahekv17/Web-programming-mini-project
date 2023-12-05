@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["yerf8i",(e,t)=>{var u,a,r,s=()=>{var e=a(),t=r(),{fetching:s,summary:n}=u({pause:!t}),h=!!n?.bookableCount;return!(s||!n)&&t&&(!e||h)};return[()=>{e("default",s)},[e=>u=e.default,e=>a=e.useSunsetShoppingCartTest,e=>r=e.useIsCommerceEnabledLocale]]},["fy42mb","2heyv0","kdttpb"]]);
